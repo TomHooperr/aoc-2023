@@ -1,0 +1,12 @@
+# IntelliJ-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Compiled class files
+*.class
+
+# Build artifacts
+out/
+target/
